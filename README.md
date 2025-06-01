@@ -1,6 +1,6 @@
 # Farmware
 
-A free and open source website to help farmers and homesteaders more easily manage their farms.
+A free and open source website to help farmers and homesteaders more easily manage their farms. You access the app at https://farmware.schentrupsoftware.com/.
 
 ## Developement
 
