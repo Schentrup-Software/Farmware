@@ -22,7 +22,7 @@
   "dependencies": {
     "bootstrap": "^5.3.0",
     "pocketbase": "^0.15.3",
-    "svelte": "^3.59.2",
+    "svelte": "^5.53.5",
     "sveltestrap": "^5.10.0"
   }
 }
